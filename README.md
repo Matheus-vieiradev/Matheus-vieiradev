@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Matheus-vieiradev
-- 👀 Estou interessado em Desenvolvimento Web como FrontEnd
-- 🌱 Atualmente estou aprendendo HTML. CSS, JavaScript, conceitos básicos de FrontEnd
+- 👀 Estou interessado em Desenvolvimento Backend
+- 🌱 Atualmente estou aprendendo Java, Spring Boot, HTML, CSS e JavaScript
 - 💞️ Procuro colaborar em projetos públicos como um autoaprendizado 
 - 📫 Como entrar em contato comigo: matheusvieira2411@gmail.com
 - 😄 Pronomes: Ele/Dele
